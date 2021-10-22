@@ -1,0 +1,19 @@
+{
+  "name": "micromag",
+  "version": "1.0.0",
+  "description": "Making an ethernet connection for an arduino magnetic field school project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rideo22/micromag.git"
+  },
+  "author": "Roman Vannieuwenhuyse en Tristan Petit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rideo22/micromag/issues"
+  },
+  "homepage": "https://github.com/rideo22/micromag#readme"
+}
