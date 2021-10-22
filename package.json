@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/rideo22/micromag/issues"
   },
-  "homepage": "https://github.com/rideo22/micromag#readme"
+  "homepage": "https://github.com/rideo22/micromag#readme",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "ip": "^1.1.5"
+  }
 }
