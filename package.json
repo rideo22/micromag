@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/rideo22/micromag#readme",
   "dependencies": {
+    "hapi": "^18.1.0",
     "http": "0.0.1-security",
     "ip": "^1.1.5"
   }
